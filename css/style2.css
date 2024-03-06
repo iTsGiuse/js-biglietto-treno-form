@@ -1,0 +1,18 @@
+body{
+    background-color: #b91547 !important;
+}
+.ms-container{
+    background-color: white !important;
+    box-shadow: rgb(160, 2, 39) 0px 5px 15px !important;
+}
+.ms-d-flex{
+    height: 120px !important;
+}
+.grey{
+   background-color: #757575 !important;
+   margin-left: -12px !important;
+}
+
+#tuo-biglietto .row:nth-child(2) label:nth-child(1){
+    font-weight: bold;
+}
